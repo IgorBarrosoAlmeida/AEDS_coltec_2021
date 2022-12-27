@@ -1,0 +1,12 @@
+Exercicios da aula 2 "Pilhas"
+
+1. Faça um programa para determinar se a sequência de parênteses está bem formada (ou seja, parênteses são
+fechados na ordem inversa àquela em que foram abertos).
+
+Exemplos:
+
+( ( ) ( ) ) Expressão bem formada
+((((())))) Expressão bem formada
+)( Expressão mal formada
+((() Expressão mal formada
+((())))))) Expressão mal formada

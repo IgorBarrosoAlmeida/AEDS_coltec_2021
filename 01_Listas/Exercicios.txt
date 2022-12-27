@@ -1,0 +1,10 @@
+Exercicios da aula 1 "Listas"
+
+1. Acrescente uma função para comparar duas listas encadeadas. Duas listas são iguais se todos os seus elementos
+são os mesmos e na mesma ordem.
+
+2. Problema de Josephus: Diz a lenda que um certo Flavius Josephus, durante uma guerra, se encontrava entre um
+bando de 41 rebeldes encurralados pelos seus inimigos em uma caverna. Os rebeldes formam um círculo e começam
+a partir de certo ponto a executar a terceira pessoa numa direção. Sabe-se que Josephus sobreviveu. Em que posição
+ele estava para ser o último? De forma geral, dada uma função (número de pessoas, passos), em que posição
+Josephus deve ficar para se salvar? Implemente o problema de Josephus utilizando Lista Encadeada.

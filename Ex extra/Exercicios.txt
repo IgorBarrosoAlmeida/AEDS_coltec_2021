@@ -1,0 +1,27 @@
+Porção de exercicios extras sobre pilhas e listas
+
+1. Uma lista encadeada pode ser definida de maneira recursiva: A
+lista encadeada é representada por uma lista vazia ou um elemento
+seguido de uma sublista. Com base nesta definição recursiva,
+implemente as seguintes funções:
+    void lst_imprime_rec (Lista *l): função recursiva que imprime os elementos da lista
+    Lista * lst_retira_rec (Lista *l, int v): função recursiva que retira elemento da lista
+    void lst_libera_rec (Lista *l): função recursiva que libera a lista
+
+2. Implemente uma função que receba duas listas encadeadas de
+valores reais como parâmetro e retorne a lista resultante da
+intercalação de seus nós.
+    Lista *lst_intercala(Lista *l1, Lista *l2);
+
+3. Dada uma lista duplamente encadeada e circular (ou seja, o
+último elemento aponta para o primeiro e vice-versa) mantida
+ordenada.
+    a) Defina os tipos necessários para representá-la.
+    b) Faça uma função para inserção de um elemento na lista. Lembre-se
+    que ela deve ser mantida ordenada.
+    c) Faça uma função para imprimir os elementos da lista.
+    d) Faça uma função para liberar a lista.
+
+4. Faça um programa para determinar se a sequência de parênteses
+e colchetes está bem formada (ou seja, parênteses e colchetes são
+fechados na ordem inversa àquela em que foram abertos).

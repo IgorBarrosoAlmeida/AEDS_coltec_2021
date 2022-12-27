@@ -1,0 +1,13 @@
+Exercicios da aula 4 "Arvores"
+
+1. Implemente os três tipos de percurso em árvores binárias.
+
+2. Implemente uma inserção em árvore binária onde elementos menores que
+a raiz ficam esquerda e elementos maiores que a raiz ficam direita.
+
+3. Dada uma árvore binária, faça uma função para contar o número de
+folhas, o número de nós com um filho e o número de nós com dois filhos. 
+
+4. Considere uma árvore binária, faça uma função que monte um
+histograma de ocorrência dos caracteres que aparecem na árvore. Modifique
+a inserção da questão 2 para aceitar valores iguais.

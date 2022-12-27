@@ -1,0 +1,8 @@
+Exercicios da aula 3 "Filas"
+
+1. Vamos montar um estacionamento! Compramos um terreno que possui uma entrada e uma saída.
+Quando chega um novo carro, este é estacionado no terreno, um atrás do outro. Quando um carro
+precisa sair, os carros do terreno são retirados pela saída, dão uma volta na quadra e são
+colocados no final da fila pela entrada do estacionamento. Faça um programa que inclua carros
+no estacionamento informando o número da placa e retire carros usando o identificador (placa).
+Depois de ter informado a placa, exiba o estado do estacionamento.
